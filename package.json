@@ -1,6 +1,6 @@
 {
   "name": "@ansdomain/ui",
-  "version": "3.8.81",
+  "version": "3.8.9",
   "description": "UI components and reusable code fixed-version",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
