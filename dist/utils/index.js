@@ -153,7 +153,7 @@ function _getEnsStartBlock() {
             break;
 
           case 6:
-            return _context2.abrupt("return", 1898054);
+            return _context2.abrupt("return", 1909415);
 
           case 7:
             return _context2.abrupt("return", 0);

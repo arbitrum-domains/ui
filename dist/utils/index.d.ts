@@ -1,6 +1,6 @@
 export function uniq(a: any): any;
 export const emptyAddress: "0x0000000000000000000000000000000000000000";
-export function getEnsStartBlock(): Promise<0 | 1898054>;
+export function getEnsStartBlock(): Promise<0 | 1909415>;
 export function validateName(name: any): any;
 export function parseSearchTerm(term: any, validTld: any): "invalid" | "short" | "supported" | "unsupported" | "address" | "tld" | "search";
 export function isLabelValid(name: any): boolean | undefined;
